@@ -22,7 +22,10 @@ We strictly followed the 7-step hardware safety and disassembly procedure:
 7. Take out the CPU cooling fan: Unlatched the thermal cooling unit to expose the processor socket.
 
 📸 Lab Documentation
+
 <img width="768" height="1024" alt="WhatsApp Image 2026-11-11 at 22 15 25" src="https://github.com/user-attachments/assets/43e8364d-eff9-462c-9e40-1c3d896f13ce" />
+
+<img width="768" height="1024" alt="WhatsApp Image 2026-11-11 at 22 15 27" src="https://github.com/user-attachments/assets/3282e835-1361-4982-9516-0a6d351eddcc" />
 
 
 Figure 1: The 7-step disassembly protocol outlined during the lab briefing.
